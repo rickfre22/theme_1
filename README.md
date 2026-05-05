@@ -124,3 +124,14 @@ php
    Asociativo: Usa claves personalizadas para mayor claridad.
 PHP
 $usuario = ["nombre" => "Ana", "edad" => 30];
+
+## Operadores AritméticosSe usan para realizar cálculos matemáticos estándar.
+OperadorNombreEjemplo
++Adición$a + 
+$b-Sustracción$a - 
+$b*Multiplicación
+$a * 
+$b/División$a / 
+$b (%) Módulo (Resto)
+$a (%) $b*
+*Exponenciación$a ** $b
